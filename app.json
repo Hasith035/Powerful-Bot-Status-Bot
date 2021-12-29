@@ -1,0 +1,26 @@
+{
+    "name": "Powerful-Bot-Status-Bot",
+    "logo": "https://telegra.ph//file/98aceff33845a579b1f2e.jpg",
+    "description": "Advance \nPowerful Bot Status Bot From @szteambots",
+    "keywords": [
+        "bot",
+        "telegram",
+        "status",
+        "botstatus"
+    ],
+    "repository": "https://github.com/szbots/Powerful-Bot-Status-Bot",
+    "website": "https://szbots.tech",
+    "success_url": "https://github.com/InukaRanmira",
+    "stack": "container",
+    "buildpacks": [
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
