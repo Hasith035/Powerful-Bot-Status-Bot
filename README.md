@@ -17,6 +17,8 @@ Advance bot status userbot
 - `HEADING` Heading of the message 
 - `ATTACH_LINK` Attach link for message
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=szbots&repo=Powerful-Bot-Status_Bot&theme=dark)
+
 <br>
 
 
