@@ -39,6 +39,9 @@ Press Below Button to Deploy!
 ## Session String
 [![Run on Repl.it](https://replit.com/badge/github/szbots/Powerful-Bot-Status-Bot)](https://replit.com/@InukaRanmira/PowerFul-Bot-Status-Sesson)
 
+<h3> This String Session created by SZ TEAM BOTS. 
+                                                   It's Fast And secure </h3>
+
 ### Follow on:
 <p align="left">
 <a href="https://github.com/InukaRanmira"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
