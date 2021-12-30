@@ -44,7 +44,7 @@ def main():
                 message = User.get_history(bot, 1)[0]
                 if start_message.message_id == message.message_id:
                     print(f"[WARNING] @{bot} is down")
-                    status_text += f"\n🤖 **Bot :-** [{bot}](https://telegram.me/{bot})" \
+                    status_text += f"\n🤖 **Bot :-** [{bot}](https://t.me/{bot})" \
                                    f"\n**⚜ Status :-** `Offline` ❎\n"
                     User.send_message(
                         chat_id=BOT_OWNER,
@@ -52,7 +52,7 @@ def main():
                     )
                 else:
                     print(f"[INFO] all good with @{bot}")
-                    status_text += f"\n🤖 **Bot :-** [{bot}](https://telegram.me/{bot})" \
+                    status_text += f"\n🤖 **Bot :-** [{bot}](https://t.me/{bot})" \
                                  f"\n**⚜ Status :-** `Online` ✅\n"
                 User.read_history(bot)
             limit = TIME_LIMIT // 60
