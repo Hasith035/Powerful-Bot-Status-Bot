@@ -37,7 +37,7 @@ Press Below Button to Deploy!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szbots/Powerful-Bot-Status-Bot)
 
 ## Session String
-[![Run on Repl.it](https://replit.com/badge/github/szbots/Powerful-Bot-Status-Bot)](https://replit.com/@vcsession/szteambots)
+[![Run on Repl.it](https://replit.com/badge/github/szbots/Powerful-Bot-Status-Bot)](https://replit.com/@InukaRanmira/PowerFul-Bot-Status-Sesson)
 
 ### Follow on:
 <p align="left">
