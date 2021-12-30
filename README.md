@@ -45,4 +45,4 @@ Press Below Button to Deploy!
 </p>
 
 # Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=szbots/Powerful-Bot-Status-Bot)   
+<a href="https://github.com/InukaRanmira">![GitHub Contributors Image](https://contrib.rocks/image?repo=szbots/Powerful-Bot-Status-Bot)   
